@@ -20,11 +20,15 @@ lego
 积木
 玩具
 
+阿里
 千问
 qwen
 
+深度求索
 DeepSeek
 
+字节
+bytedance
 豆包
 seed
 
@@ -32,11 +36,10 @@ seed
 鸿蒙
 HarmonyOS
 
+Apple
+苹果
 ios
-
-字节
-bytedance
-张一鸣
+!水果
 
 微软
 Microsoft
@@ -57,7 +60,6 @@ sora
 
 claude
 Anthropic
-
 
 ai
 !gai
@@ -83,3 +85,7 @@ python
 vue
 JavaScript
 TypeScript
+
+Stable Diffusion
+SD
+ComfyUI
