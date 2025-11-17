@@ -70,3 +70,16 @@ ai
 科技
 
 !广告
+
+后端
+Java
+spring
+sql
+redis
+mq
+python
+
+前端
+vue
+JavaScript
+TypeScript
